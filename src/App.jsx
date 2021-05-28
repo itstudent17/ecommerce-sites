@@ -67,6 +67,17 @@ const App = () => (
       Ноу хау
     </a>
     <br />
+        <h1>Notebooks with > 17 inches</h1>
+https://www.citilink.ru/catalog/noutbuki/?f=discount.any%2Crating.any%2C10659_317b73d1a3%2C10659_317d1a3&pf=discount.any%2Crating.any%2C10659_317b73d1a3&sorting=price_asc
+https://www.ozon.ru/category/noutbuki-15692/?diagonallookup=55726%2C36702&sorting=price
+https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?fr[65w]=17.1-17.3
+https://www.notik.ru/index/notebooks.htm?srch=true&full=&f117=5650&f9=8344&sortby=price
+https://www.kns.ru/catalog/noutbuki-17-dyuimov/
+https://www.svyaznoy.ru/catalog/notebook/1738?FILTER%5B5897%5D%5B0%5D=26492&ORDER_BY=price
+https://www.wildberries.ru/catalog/elektronika/noutbuki-pereferiya/noutbuki-ultrabuki?sort=priceup&page=1&f4474=1136028%3B99153
+https://www.mvideo.ru/noutbuki-planshety-komputery-8/noutbuki-118/f/diagonal-ekrana=17-i-bolee?sort=price_asc
+https://www.eldorado.ru/c/noutbuki/?f_1202470=1202500&sort=price
+https://xn----8sb1bezcm.xn--p1ai/catalog/-/noutbuki?sort=priceasc&clauses=4c66d79c
   </div>
 );
 
